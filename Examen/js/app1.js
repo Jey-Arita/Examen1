@@ -17,8 +17,7 @@ let terminar=1;
 const planilla = [];
 
 const numeroPlanilla = 'FEB-01-2024';
-// const nombreEmpresa = prompt('Ingrese el nombre de la empresa');
-const nombreEmpresa = 'Comex';
+const nombreEmpresa = prompt('Ingrese el nombre de la empresa');
 let j;
 
 for (j = 1; terminar != 0; j++) {
